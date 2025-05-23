@@ -34,22 +34,6 @@ The dataset includes the following key columns:
   - kagglehub
   - shutil
 
-## Setup and Usage
-1. Clone this repository
-2. Install required dependencies:
-```bash
-pip install pandas kagglehub shutil
-```
-3. The analysis is contained in the Jupyter notebook `Raport_finalny.ipynb`
-4. To run the analysis:
-   - Open the notebook in Jupyter Lab/Notebook
-   - Execute the cells in sequence
-
-## Project Structure
-- `Raport_finalny.ipynb`: Main analysis notebook
-- `README.md`: Project documentation
-- Data is downloaded automatically from Kaggle using kagglehub
-
 ## Analysis Components
 The analysis includes:
 - Data loading and initial exploration
@@ -58,8 +42,3 @@ The analysis includes:
 - Time series analysis of trends
 - Detailed examination of specific demographic groups
 
-## License
-This project uses publicly available data from U.S. government sources.
-
-## Contributing
-Feel free to open issues or submit pull requests if you have suggestions for improvements or additional analyses.
